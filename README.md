@@ -8,7 +8,7 @@ int age;
 char grade;
 };
 void addStudent(std::vector<Student>& students) {
-    Student newStudent;
+  Student newStudent;
     std::cout << "Enter Roll Number: ";
     std::cin >> newStudent.rollNumber;
     std::cin.ignore(); // To ignore the newline character left by std::cin
