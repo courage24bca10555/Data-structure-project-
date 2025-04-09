@@ -2,10 +2,10 @@
 #include <vector>
 #include <string>
 struct Student {
-    int rollNumber;
-    std::string name;
-    int age;
-    char grade;
+int rollNumber;
+std::string name;
+int age;
+char grade;
 };
 void addStudent(std::vector<Student>& students) {
     Student newStudent;
