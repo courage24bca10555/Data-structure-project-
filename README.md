@@ -1,5 +1,3 @@
-# Data-structure-project-
-student record system
 #include <iostream>
 #include <vector>
 #include <string>
